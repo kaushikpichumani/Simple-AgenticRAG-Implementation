@@ -22,13 +22,10 @@ This implementation is **agentic**, meaning:
 LangGraph enables this by modeling the workflow as a **graph with conditional edges**.
 
 ---
-
 ## 🏗️ Architecture Overview
 
-The system follows the workflow shown below:
+![Adaptive RAG Architecture](AgentRAG.png)
 
-
-::contentReference[oaicite:0]{index=0}
 
 
 ### Execution Flow
